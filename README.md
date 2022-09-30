@@ -6,5 +6,5 @@ www.patika.dev
 # Installation
 git clone https://github.com/BasriOrak06/PatikaJava101
 # Contributing
-app.atika.dev ekibine teşekkürler!*
+app.patika.dev ekibine teşekkürler!*
 ![Patika Logo](https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png)
