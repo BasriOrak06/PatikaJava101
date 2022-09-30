@@ -1,6 +1,8 @@
 www.patika.dev
 # PatikaJava101
-`Bu repo www.patika.dev sitesinde yer alan Java101 dersi ödevlerini barındırmaktadır`
+# Bu repo www.patika.dev sitesinde yer alan Java101 dersi ödevlerini barındırmaktadır
+  - Temel Kavramlar ve Değişkenler Konusuna ait pratikler ve ödevler src kalsörününaltında yer almaktadır.
+  - Koşullu İfadeler ve Kod Blokları klasörü eklenmiş ve ilgili derslere ait pratik ve ödevler kalsörün içinde bulunmaktadır.
 # Installation
 git clone https://github.com/BasriOrak06/PatikaJava101
 # Contributing
