@@ -1,4 +1,4 @@
-www.patika.dev
+www.patika.dev  www.patika.dev
 # PatikaJava101
 # Bu repo www.patika.dev sitesinde yer alan Java101 dersi ödevlerini barındırmaktadır
   - Temel Kavramlar ve Değişkenler Konusuna ait pratikler ve ödevler src kalsörününaltında yer almaktadır.
