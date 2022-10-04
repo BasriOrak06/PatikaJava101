@@ -6,7 +6,7 @@ public class Odev3DeseneGoreMetot {
 
     public static void Pattern(int pattern) {
 
-        System.out.print(pattern + " ");;
+        System.out.print(pattern + " ");
 
         if (0 < pattern) {
             Pattern(pattern - 5);
