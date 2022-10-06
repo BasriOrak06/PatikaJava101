@@ -5,6 +5,7 @@ www.patika.dev  www.patika.dev
   - Koşullu İfadeler ve Kod Blokları klasörü eklenmiş ve ilgili derslere ait pratik ve ödevler kalsörün içinde bulunmaktadır.
   - Döngüler Bölümü pratikleri ve ödevleri eklenmiştir.
   - Diziler Bölümü pratikleri ve ödevleri eklenmiştir.
+  - Diğer konular bölümü pratikleri eklenmiştir.
 # Installation
 git clone https://github.com/BasriOrak06/PatikaJava101
 # Contributing
